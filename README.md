@@ -4,9 +4,11 @@
 
 ## Tools Installed
 
-- Cursor
+- Cursor IDE 
 
-- Claude CLI
+- Claude Code extension (Cursor Marketplace)
+
+- Codex extensions (Cursor Marketplace or not available)
 
 - Git
 
@@ -14,21 +16,27 @@
 
 ## Steps Completed
 
-1. Installed Cursor
+1. Installed Cursor IDE 
 
-2. Installed Claude CLI
+2. Installed Claude Code extension
 
-3. Attempted to connect Claude Code
+3. Searched for and explored Claude Code extension in Cursor Marketplace
 
-4. Explored Cursor Marketplace and Settings
+4. Attempted to log in to Claude Code (requires subscription)
 
-5. Created a public GitHub repository
+5. Searched for Codex extension in Cursor Marketplace and Settings
 
-6. Opened the repository in Cursor
+6. Created a public GitHub repository
 
-7. Edited the [README.md](http://README.md) file
+7. Opened the repository in Cursor
 
-8. Prepared repository for commit and push
+8. Edited the [README.md](http://README.md) file
+
+9. Opened the repository in Cursor
+
+10. Committed changes using Git 
+
+11. Pushed repository to GitHub 
 
 ## Issues Encountered
 
@@ -40,7 +48,7 @@ Claude Code required a Claude Pro or Max subscription to log in.
 
 Solution:
 
-Used Cursor's built-in free features instead of paid Claude authentication.
+Used Cursor's built-in AI features instead of paid Claude Code authentication.
 
 ### Codex Extension
 
@@ -54,4 +62,4 @@ Used Cursor's built-in AI integrations and documented the limitation.
 
 ## Repository
 
-This repository contains the [README.md](http://README.md) file for the first setup task.
+This repository contains the [README.md](http://README.md) file for the first task.
